@@ -3,11 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-vincent@vwong.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincent@vwong.dev)](mailto:vincent@vwong.dev)
 
 ### About
--  **Interests:** Full Stack web development and native app development.
--  **Main Languages:** JavaScript + Typescript and Python.
--  **Frameworks:** React, Bootstrap and Express.js.
+-  **Skills:** Full stack web development and native app development.
+-  **Main Languages:** JavaScript + Typescript, Python and C.
+-  **Frontend Frameworks:** React, Bootstrap and Gatsby.
+-  **Backend Frameworks:** Express.js and Flask.
 -  **Education:** Computer Science and Mathematics at UNSW in Sydney.
+-  **Interests:** Algorithms, pure mathematics and data science.
 
-View some of my projects on my [portfolio](https://vwong.dev).
-
-
+View my projects on my [personal portfolio](https://vwong.dev).
