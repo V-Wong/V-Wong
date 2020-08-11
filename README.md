@@ -6,7 +6,7 @@
 -  **Skills:** Full stack web development and native app development.
 -  **Main Languages:** JavaScript + Typescript, Python and C.
 -  **Frontend Frameworks:** React, Bootstrap and Gatsby.
--  **Backend Frameworks:** Express.js and Flask.
+-  **Backend Frameworks:** Express.js and Python-Flask.
 -  **Education:** Computer Science and Mathematics at UNSW in Sydney.
 -  **Interests:** Algorithms, pure mathematics and data science.
 
