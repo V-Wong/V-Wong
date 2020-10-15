@@ -1,5 +1,5 @@
 # Hi, I'm Vincent Wong!
-I'm a software developer from Sydney, Australia, primarily programming in Typescript and Python. 
+I'm a software developer from Sydney, Australia. I primarily program in Typescript and Python. 
 I currently study Computer Science and Mathematics at the University of New South Wales.
 I'm interested in algorithms, pure mathematics and general software engineering.
 
