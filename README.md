@@ -6,9 +6,10 @@ I'm interested in algorithms, pure mathematics and general software engineering.
 You can view some of my projects on my [portfolio](https://vwong.dev).
 
 ## Projects I've Worked On
-- [LinkUp - a centralised web platform for university events](https://linkup.website/)
-- [Huffman Encoding Tool - visualisation tool for the data compression algorithm](https://github.com/V-Wong/Huffman-Encoding)
-- [CubeSim - Rubiks Cube Simulater and Solver](https://github.com/V-Wong/CubeSim)
+- [LinkUp - Centralised Web Platform For University Events](https://linkup.website/)
+- [Huffman Encoding Tool - Visualisation Tool For The Huffman Encoding Algorithm](https://vwong.dev/Huffman-Encoding/)
+- [CloudLatex - Online Latex and Markdown Editor](https://vwong.dev/CloudLatex/)
+- [CubeSim - Rubiks Cube Simulator and Solver](https://github.com/V-Wong/CubeSim)
 
 ## Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Wong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-wc-wong//)](https://www.linkedin.com/in/vincent-wc-wong/) 
