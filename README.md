@@ -12,7 +12,7 @@ You can view some of my projects on my [portfolio](https://vwong.dev).
 
 ## Notes For Courses I've Taken
 - [COMP3141 - Software System Design and Implementation](https://github.com/V-Wong/COMP3141)
-- [COMP3891 - Extended Operating Systems](https://github.com/V-Wong/COMP3821)
+- [COMP3891 - Extended Operating Systems](https://github.com/V-Wong/COMP3891)
 - [COMP3821 - Extended Algorithms and Programming Techniques](https://github.com/V-Wong/COMP3821)
 - [COMP2511 - Object Oriented Programming](https://github.com/V-Wong/COMP2511)
 - [COMP3311 - Database Systems](https://github.com/V-Wong/COMP3311)
