@@ -1,14 +1,15 @@
 # Hi, I'm Vincent Wong!
-I'm a software developer from Sydney, Australia. I primarily program in Typescript and Python. 
-I currently study Computer Science and Mathematics at the University of New South Wales.
-I'm interested in algorithms, pure mathematics and general software engineering.
-
-You can view some of my projects on my [portfolio](https://vwong.dev).
+## About Me
+- Software Engineer based in Sydney, Australia.
+- Computer Science and Mathematics student at UNSW.
+- Experienced in Typescript and Python.
 
 ## Projects I've Worked On
-- [LinkUp - Centralised Web Platform For UNSW Events](https://linkupevents.com.au/)
-- [CubeSim - Rubiks Cube Simulator and Solver](https://github.com/V-Wong/CubeSim)
-- [Huffman Encoding Tool - Algorithm Visualisation Web App](https://vwong.dev/Huffman-Encoding/)
+|Name|Description|Repo|Live|
+|-|-|-|-|
+|LinkUp|UNSW Events Platform||[linkupevents.com.au](https://linkupevents.com.au/)|
+|CubeSim|Rubik's Cube Simulator and Solver|[V-Wong/CubeSim](https://github.com/V-Wong/CubeSim)||
+|Huffman Encoding Tool| Algorithm Visualiser|[V-Wong/Huffman-Encoding](https://github.com/V-Wong/HUffman-Encoding)|[vwong.dev/Huffman-Encoding/](https://vwong.dev/Huffman-Encoding/)
 
 ## Notes For Courses I've Taken
 - [COMP3141 - Software System Design and Implementation](https://github.com/V-Wong/COMP3141)
