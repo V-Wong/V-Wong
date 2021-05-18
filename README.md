@@ -1,8 +1,7 @@
 # Hi, I'm Vincent Wong!
 ## About Me
-- Software Engineer based in Sydney, Australia.
-- Computer Science and Mathematics student at UNSW.
-- Experienced in Typescript and Python.
+- Full Stack Software Engineer based in Sydney, Australia.
+- Experienced in Typescript and Python with experience in Java and C.
 
 ## Projects I've Worked On
 |Name|Description|Repo|Live|
@@ -20,7 +19,6 @@
 - [COMP3141 - Software System Design and Implementation](https://github.com/V-Wong/COMP3141)
 - [COMP3891 - Extended Operating Systems](https://github.com/V-Wong/COMP3891)
 - [COMP3821 - Extended Algorithms and Programming Techniques](https://github.com/V-Wong/COMP3821)
-- [COMP2511 - Object Oriented Programming](https://github.com/V-Wong/COMP2511)
 - [COMP3311 - Database Systems](https://github.com/V-Wong/COMP3311)
 
 ## Contact Me
