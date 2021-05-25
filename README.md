@@ -11,7 +11,7 @@
 |Huffman Encoding Tool| Algorithm Visualiser|[V-Wong/Huffman-Encoding](https://github.com/V-Wong/HUffman-Encoding)|[vwong.dev/Huffman-Encoding/](https://vwong.dev/Huffman-Encoding/)
 
 ## Small Tools I've Written
-- [MIP3 R3000 Memory Translation Script](https://github.com/V-Wong/COMP3891/blob/main/misc/memory_translation.py)
+- [MIPS R3000 Memory Translation Script](https://github.com/V-Wong/COMP3891/blob/main/misc/memory_translation.py)
 - [LZ78 Encryption Walkthrough Script](https://github.com/V-Wong/MATH3411/blob/master/LZ78.py)
 - [Arithmetic Encoding Walkthrough Script](https://github.com/V-Wong/MATH3411/blob/master/arithmetic_coding.py)
 
