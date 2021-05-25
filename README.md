@@ -8,7 +8,7 @@
 |-|-|-|-|
 |LinkUp|UNSW Events Platform||[linkupevents.com.au](https://linkupevents.com.au/)|
 |CubeSim|Rubik's Cube Simulator and Solver|[V-Wong/CubeSim](https://github.com/V-Wong/CubeSim)||
-|Huffman Encoding Tool| Algorithm Visualiser|[V-Wong/Huffman-Encoding](https://github.com/V-Wong/HUffman-Encoding)|[vwong.dev/Huffman-Encoding/](https://vwong.dev/Huffman-Encoding/)
+|Huffman Encoding Tool| Algorithm Visualiser|[V-Wong/Huffman-Encoding](https://github.com/V-Wong/HUffman-Encoding)|[vwong.dev/Huffman-Encoding](https://vwong.dev/Huffman-Encoding/)
 
 ## Small Tools I've Written
 - [MIPS R3000 Memory Translation Script](https://github.com/V-Wong/COMP3891/blob/main/misc/memory_translation.py)
