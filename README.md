@@ -1,7 +1,7 @@
 # Hi, I'm Vincent Wong!
 ## About Me
 - Full Stack Software Engineer based in Sydney, Australia.
-- Experienced in Typescript and Python with experience in Java and C.
+- Experienced in Typescript and Python with proficiency in Java and C.
 
 ## Projects I've Worked On
 |Name|Description|Repo|Live|
