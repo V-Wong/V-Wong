@@ -8,6 +8,7 @@
 |-|-|-|-|
 |LinkUp|UNSW Events Platform||[linkupevents.com.au](https://linkupevents.com.au/)|
 |CubeSim|Rubik's Cube Simulator and Solver|[V-Wong/CubeSim](https://github.com/V-Wong/CubeSim)||
+|CHIP-8 Emulator|CHIP-8 Virtual Machine Emulator|[V-Wong/chip8](https://github.com/V-Wong/chip8)||
 |Huffman Encoding Tool| Algorithm Visualiser|[V-Wong/Huffman-Encoding](https://github.com/V-Wong/HUffman-Encoding)|[vwong.dev/Huffman-Encoding](https://vwong.dev/Huffman-Encoding/)
 
 ## Small Tools I've Written
