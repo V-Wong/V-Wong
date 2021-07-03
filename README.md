@@ -2,6 +2,7 @@
 ### About Me
 - I'm currently a Computer Science and Mathematics student at [UNSW](https://unsw.edu.au/) in Sydney.
 - I currently work part time as a Junior Software Developer at [Ventia](https://ventia.com/).
+- I primarily code in Python and Typescript but also have experience in Java and C++.
 
 ### Projects I've Worked On
 |Name|Description|Repo|Live|
