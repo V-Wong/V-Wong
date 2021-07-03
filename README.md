@@ -8,7 +8,7 @@ I have experience programming with:
 - Javascript/Typescript
 - C++
 
-On my GitHub, you will find various of my software projects as well as noteswritten for many of the UNSW computing courses I have taken.
+On my GitHub, you will find various software projects I have worked on as well as notes written for many of the UNSW computing courses I have taken.
 
 ## Projects I've Worked On
 |Name|Description|Repo|Live|
@@ -25,6 +25,5 @@ On my GitHub, you will find various of my software projects as well as noteswrit
 - [COMP3311 - Database Systems](https://github.com/V-Wong/COMP3311)
 
 ## Contact Me
-I am always open to new opportunities in software engineering. Feel free to contact me:
-- [On LinkedIn](https://www.linkedin.com/in/vincent-wc-wong/)
-- [By email](mailto:vincent@vwong.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Vincent_Wong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-wc-wong//)](https://www.linkedin.com/in/vincent-wc-wong/) 
+[![Gmail Badge](https://img.shields.io/badge/-vincent@vwong.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincent@vwong.dev)](mailto:vincent@vwong.dev)
