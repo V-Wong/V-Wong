@@ -6,6 +6,7 @@
 
 ### Projects I've Worked On
 - [LinkUp](https://linkupevents.com.au) - React + AWS Lambda web platform for UNSW society events.
+- [CubeSim](https://github.com/V-Wong/CubeSim2) - Rust based high performance Rubik's Cube solver.
 - [CubeSim](https://github.com/V-Wong/CubeSim) - Python based 3x3 Rubik's Cube simulator and solver.
 - [CHIP-8 Emulator](https://github.com/V-Wong/chip8) - C++ based emulator for the CHIP-8 virtual machine.
 - [Huffman Visualiser](https://vwong.dev/Huffman-Encoding) - Typescript + React web app for visualising the Huffman Encoding algorithm.
