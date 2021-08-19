@@ -12,10 +12,10 @@
 - [Huffman Visualiser](https://vwong.dev/Huffman-Encoding) - Huffman Encoding visualisation web app written in Typescript and React.
 
 ### Notes For Courses I've Taken
-- [COMP3141 - Software System Design and Implementation](https://github.com/V-Wong/COMP3141)
-- [COMP3891 - Extended Operating Systems](https://github.com/V-Wong/COMP3891)
-- [COMP3821 - Extended Algorithms and Programming Techniques](https://github.com/V-Wong/COMP3821)
-- [COMP3311 - Database Systems](https://github.com/V-Wong/COMP3311)
+- [COMP3141](https://github.com/V-Wong/COMP3141) - Software System Design and Implementation
+- [COMP3891](https://github.com/V-Wong/COMP3891) - Extended Operating Systems
+- [COMP3821](https://github.com/V-Wong/COMP3821) - Extended Algorithms and Programming Techniques
+- [COMP3311](https://github.com/V-Wong/COMP3311) - Database Systems
 
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-Vincent_Wong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-wc-wong//)](https://www.linkedin.com/in/vincent-wc-wong/) 
