@@ -1,7 +1,6 @@
 ## Hi There, I'm Vincent!
 ### About Me
 - I'm a Computer Science and Mathematics student at [UNSW](https://unsw.edu.au/) in Sydney.
-- I work part time as a Junior Software Developer at [Ventia](https://ventia.com/).
 - I'm an avid speedcuber having regularly attended [WCA competitions](https://www.worldcubeassociation.org/persons/2014WONG08) in Australia
 - I primarily code in Rust, Python and Typescript but also have experience in Java and C++.
 
