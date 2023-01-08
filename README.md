@@ -5,8 +5,8 @@
 - I primarily code in Rust, Python and Typescript but also have experience in Java and C++.
 
 ### Projects I've Worked On
-- [CubeSim RS](https://github.com/V-Wong/CubeSimRS) - High performance Rubik's Cube optimal solver written entirely in Rust.
-- [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator) - Type-safe and generic relational algebra evaluator written entirely in Rust.
+- [CubeSim RS](https://github.com/V-Wong/CubeSimRS) - High performance Rubik's Cube optimal solver written in Rust.
+- [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator) - Type-safe and generic relational algebra system written in Rust.
 - [CubeSim](https://github.com/V-Wong/CubeSim) - Visual 3x3 Rubik's Cube simulator and solver written in Python using PyGame.
 - [LinkUp](https://linkupevents.com.au) - Centralised web platform for UNSW society events written in React with AWS Lambda.
 - [CHIP-8 Emulator](https://github.com/V-Wong/chip8) - CHIP-8 virtual machine emulator written in modern C++.
