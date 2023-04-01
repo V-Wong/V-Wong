@@ -1,4 +1,4 @@
-## Hi There, I'm Vincent!
+## 👋 Hi There, I'm Vincent!
 ### About Me
 - I'm a Computer Science and Mathematics student at [UNSW](https://unsw.edu.au/) in Sydney.
 - I'm an avid speedcuber having regularly attended [WCA competitions](https://www.worldcubeassociation.org/persons/2014WONG08) in Australia
