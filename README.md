@@ -1,7 +1,7 @@
 ## 👋 Hi There, I'm Vincent!
 ### About Me
-- I'm a Computer Science and Mathematics student at [UNSW](https://unsw.edu.au/) in Sydney.
-- I'm an avid speedcuber having regularly attended [WCA competitions](https://www.worldcubeassociation.org/persons/2014WONG08) in Australia
+- I'm a software engineer at Atlassian in Sydney, Australia
+- I studied Computer Science and Mathematics at [UNSW](https://unsw.edu.au/).
 - I primarily code in Rust, Python and Typescript, but I also have experience in Java and C++.
 
 ### Projects I've Worked On
