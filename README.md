@@ -1,17 +1,18 @@
-## 👋 Hi There, I'm Vincent!
-### About Me
-- I'm a software engineer at Atlassian in Sydney, Australia
-- I studied Computer Science and Mathematics at [UNSW](https://unsw.edu.au/).
-- I primarily code in Rust, Python and Typescript, but I also have experience in Java and C++.
+# Hi There, I'm Vincent!
+I'm currently a backend software engineer at [Atlassian](https://www.atlassian.com/) in Sydney, Australia. Before that, I studied applied mathematics and computer science at [UNSW](https://www.unsw.edu.au/). While studying, I took up roles as:
+- Software Engineer Intern at [IMC Trading](https://www.imc.com/ap/) (December 2021 - February 2022).
+- Casual Software Developer at [Ventia](https://www.ventia.com/) (September 2019 - November 2021).
 
-### Projects I've Worked On
-- [CubeSim RS](https://github.com/V-Wong/CubeSimRS) - High-performance Rubik’s Cube solver library written in Rust.
-- [LinkUp](https://linkupevents.com) - Centralised web platform for UNSW events written in AWS Lambda and React.
-- [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator) - Generic relational algebra system written in Rust with zero dependencies.
-- [CHIP-8 Emulator](https://github.com/V-Wong/chip8) - CHIP-8 virtual machine emulator written in modern C++ using SDL2.
-- [CubeSim](https://github.com/V-Wong/CubeSim) - Visual 3x3 Rubik's Cube simulator and solver written in Python using PyGame.
-- [Huffman Visualiser](https://vwong.dev/Huffman-Encoding) - Huffman Encoding visualisation web app written in Typescript and React.
+Outside of work, I have worked on projects in a variety of languages including:
+- Rust: [CubeSimRS](https://github.com/V-Wong/CubeSimRS) and [ra-evaluator](https://github.com/V-Wong/ra-evaluator).
+- Python: [CubeSimPy](https://github.com/V-Wong/CubeSim) and [LZ78 Encoder](https://github.com/V-Wong/MATH3411/blob/master/LZ78.py).
+- Javascript/Typescript: [Huffman Encoding Visualiser](https://vwong.dev/Huffman-Encoding/) and [LinkUp Events](https://linkupevents.com/).
 
-### Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-Vincent_Wong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-wc-wong//)](https://www.linkedin.com/in/vincent-wc-wong/) 
-[![Gmail Badge](https://img.shields.io/badge/-vincent@vwong.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincent@vwong.dev)](mailto:vincent@vwong.dev)
+When not coding, I like to [speedcube](https://www.worldcubeassociation.org/persons/2014WONG08) and have held [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums).
+
+# Contact Me
+I am always open to opportunities in software engineering. Feel free to contact me:
+- [On LinkedIn](https://www.linkedin.com/in/vincent-wc-wong/).
+- [By email](mailto:vincent@vwong.dev).
+
+You can also find more details about my work history on my [resume](https://vwong.dev/attachments/resume.pdf).
